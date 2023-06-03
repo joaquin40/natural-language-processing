@@ -1,4 +1,4 @@
-# natural-language-processing
+# Natural language processing US Economic News Articles 
 
 This project, Naive Bayes is used to classified 8,000 news articles into two categories, whether or not the articles are relevant to US Economy (`relevance`).
 
