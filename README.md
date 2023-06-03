@@ -17,7 +17,7 @@ Data was formatted to tidy text and clean by removing stop words, punctuation, r
 
 Data was randomly split by 60,000 to training and 10,000 for testing. The table below shows the proportion of response in the training and test set which is balanced.  
 
-![](.\images\prop_res.png)
+![](./images/prop_res.png)
 
 The Naive Bayes model results on the testing set is shown below. The prevalence is 0.1796, meaning about 18% of the articles are realted to US economy.  The balanced accuracy of the model is 0.7275 with a 95% CI between 0.6987 and 0.7551,  precision is 0.3553, recall 0.6348, and F1  0.4556. 
 
