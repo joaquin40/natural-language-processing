@@ -11,6 +11,7 @@ The figure below show the most important word by relevance to US economy using t
 
 ![](./images/tf_idf.png)
 
+# Prediction
 
 Data was formatted to tidy text and clean by removing stop words, punctuation, removing white space,  transforming text to all lowercase and then converting to Document Term Matrix.  
 
